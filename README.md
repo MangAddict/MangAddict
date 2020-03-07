@@ -8,6 +8,12 @@ No user data is recovered.
 
 Download the APK File on your Android mobile.
 
-Download last release => [Version 2.1]
+Download last release => [Version 2.2]
 
-[Version 2.1]: https://github.com/MangAddict/MangAddict/releases/tag/V2.1
+[Version 2.2]: https://github.com/MangAddict/MangAddict/releases/tag/V2.2
+
+Next Feature : 
+
+- Reading history
+- Download scans
+- Add favorites
